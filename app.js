@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
 
+    
     // Generate the user list
     generateUserList(userData, stocksData);
 
